@@ -20,8 +20,8 @@ while True:
         fu.printv("Buscar Libro")
     elif opcion==3:
         fu.printv("Certificados")
-        print("1) Críticas")
-        print("2) Detalles")
+        print("1) Críticas de libro")
+        print("2) Detalles de ventas")
         cert = int(input("Seleccione : "))
 
         if cert==1:
