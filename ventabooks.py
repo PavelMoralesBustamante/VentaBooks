@@ -4,9 +4,9 @@ while True:
     fu.limpiarpantalla()
     fu.printv("SISTEMA VENTABOOKS")
     fu.printv("******************")
-    print("1) Guardar")
-    print("2) Buscar")
-    print("3) Certificados")
+    print("1) Guardar Libros")
+    print("2) Buscar Libros")
+    print("3) Certificados de Libros")
     print("0) Salir")
     opcion = int(input("Seleccione : "))
 
