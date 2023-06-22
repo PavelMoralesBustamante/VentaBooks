@@ -15,9 +15,9 @@ while True:
         fu.printv("Adios :D")
         break
     elif opcion==1:
-        fu.printv("Guardar")
+        fu.printv("Guardar Libro")
     elif opcion==2:
-        fu.printv("Buscar")
+        fu.printv("Buscar Libro")
     elif opcion==3:
         fu.printv("Certificados")
         print("1) Críticas")
